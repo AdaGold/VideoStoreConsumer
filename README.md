@@ -4,7 +4,7 @@ In this project, you'll take a lot of the knowledge you have so far and create a
 
 This is a [Phase 3](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/classroom/rule-of-three.md#stage-3) Pair project.
 
-Due: **DATE HERE**
+Due: **Friday January 22nd** in a presentation (see the calendar).
 
 ## Learning Goals
 
